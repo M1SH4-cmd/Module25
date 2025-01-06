@@ -1,0 +1,5 @@
+# 0 "C:/Users/User/Desktop/Module25/HW/task_2/src/disk.cpp"
+# 1 "C:\\Users\\User\\Desktop\\Module25\\HW\\task_2\\cmake-build-debug//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "C:/Users/User/Desktop/Module25/HW/task_2/src/disk.cpp"

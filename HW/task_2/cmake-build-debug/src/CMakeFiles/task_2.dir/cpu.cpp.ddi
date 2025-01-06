@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "src/CMakeFiles/task_2.dir/cpu.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

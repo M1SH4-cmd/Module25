@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build src/CMakeFiles/task_2.dir/main.cpp.obj: dyndep
+
+build src/CMakeFiles/task_2.dir/cpu.cpp.obj: dyndep
+
+build src/CMakeFiles/task_2.dir/ram.cpp.obj: dyndep
+
+build src/CMakeFiles/task_2.dir/gpu.cpp.obj: dyndep
+
+build src/CMakeFiles/task_2.dir/disk.cpp.obj: dyndep
+
+build src/CMakeFiles/task_2.dir/kbd.cpp.obj: dyndep
+

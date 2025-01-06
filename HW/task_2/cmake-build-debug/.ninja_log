@@ -1,0 +1,23 @@
+# ninja log v6
+3	427	7578990962204653	build.ninja	9ba4821a8aaebb6f
+65	143	7578990631055850	src/CMakeFiles/task_2.dir/ram.cpp.obj.ddi	8800a768e93cc550
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/CXX.dd	c86ed4a4ead24f1c
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/disk.cpp.obj.modmap	c86ed4a4ead24f1c
+72	120	7578990631125910	src/CMakeFiles/task_2.dir/disk.cpp.obj.ddi	f40032679938cf2f
+60	142	7578990631010818	src/CMakeFiles/task_2.dir/cpu.cpp.obj.ddi	9bbebf80c0229d1f
+536	694	7578990635769334	src/CMakeFiles/task_2.dir/ram.cpp.obj	4a6dbf2ef78b8c5f
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/cpu.cpp.obj.modmap	c86ed4a4ead24f1c
+76	146	7578990631170952	src/CMakeFiles/task_2.dir/kbd.cpp.obj.ddi	ead03f71d197e0b
+68	145	7578990631085893	src/CMakeFiles/task_2.dir/gpu.cpp.obj.ddi	3085114c89fd7f6d
+548	696	7578990635884434	src/CMakeFiles/task_2.dir/kbd.cpp.obj	1a4da435574c025f
+56	396	7578990630970779	src/CMakeFiles/task_2.dir/main.cpp.obj.ddi	48bb447812d9dd54
+396	520	7578990635564162	C:/Users/User/Desktop/Module25/HW/task_2/cmake-build-debug/src/CMakeFiles/task_2.dir/CXXModules.json	c86ed4a4ead24f1c
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/main.cpp.obj.modmap	c86ed4a4ead24f1c
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/ram.cpp.obj.modmap	c86ed4a4ead24f1c
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/gpu.cpp.obj.modmap	c86ed4a4ead24f1c
+396	520	7578990635564162	src/CMakeFiles/task_2.dir/kbd.cpp.obj.modmap	c86ed4a4ead24f1c
+540	692	7578990635804363	src/CMakeFiles/task_2.dir/gpu.cpp.obj	c29ea3e4796aa18c
+533	693	7578990635739312	src/CMakeFiles/task_2.dir/cpu.cpp.obj	c37be634e6f493c
+544	695	7578990635844397	src/CMakeFiles/task_2.dir/disk.cpp.obj	368b12d0e4dd8873
+530	2340	7578990635704287	src/CMakeFiles/task_2.dir/main.cpp.obj	a2b8e0fc43271d8e
+2342	2866	7578990653827473	src/task_2.exe	15d9f4a549b7e977

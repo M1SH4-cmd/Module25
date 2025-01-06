@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src",
+	"dir-cur-src" : "C:/Users/User/Desktop/Module25/HW/task_1/src",
+	"dir-top-bld" : "C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/User/Desktop/Module25/HW/task_1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\User\\Desktop\\Module25\\HW\\task_1\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/task_1.dir"
+}

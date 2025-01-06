@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/task_1.dir
+C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

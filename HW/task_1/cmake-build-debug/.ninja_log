@@ -1,0 +1,18 @@
+# ninja log v6
+2	321	7578516237838272	build.ninja	2ea55320025113ef
+38	71	7578206616531276	src/CMakeFiles/task_1.dir/operation.cpp.obj.ddi	216d0ecec34ff0a4
+35	312	7578206616501249	src/CMakeFiles/task_1.dir/main.cpp.obj.ddi	1bd79fd9c3f03f74
+312	368	7578206619794879	src/CMakeFiles/task_1.dir/CXX.dd	96d86f3bdd094e39
+312	368	7578206619794879	C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/task_1.dir/CXXModules.json	96d86f3bdd094e39
+312	368	7578206619794879	src/CMakeFiles/task_1.dir/operation.cpp.obj.modmap	96d86f3bdd094e39
+379	429	7578206619945008	src/CMakeFiles/task_1.dir/operation.cpp.obj	11d63a8904272234
+312	368	7578206619794879	src/CMakeFiles/task_1.dir/main.cpp.obj.modmap	96d86f3bdd094e39
+376	1751	7578206619914983	src/CMakeFiles/task_1.dir/main.cpp.obj	50e69b26525888d1
+1753	1883	7578206633686825	src/task_1.exe	c497aef09ad7a501
+77	533	7578758011284135	src/CMakeFiles/task_1.dir/main.cpp.obj.ddi	1bd79fd9c3f03f74
+116	540	7578758011684469	src/CMakeFiles/task_1.dir/operation.cpp.obj.ddi	216d0ecec34ff0a4
+540	627	7578758015920930	src/CMakeFiles/task_1.dir/CXX.dd	96d86f3bdd094e39
+540	627	7578758015920930	C:/Users/User/Desktop/Module25/HW/task_1/cmake-build-debug/src/CMakeFiles/task_1.dir/CXXModules.json	96d86f3bdd094e39
+540	627	7578758015920930	src/CMakeFiles/task_1.dir/main.cpp.obj.modmap	96d86f3bdd094e39
+540	627	7578758015920930	src/CMakeFiles/task_1.dir/operation.cpp.obj.modmap	96d86f3bdd094e39
+639	2211	7578758016906970	src/CMakeFiles/task_1.dir/operation.cpp.obj	11d63a8904272234
